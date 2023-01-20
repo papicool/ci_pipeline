@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bsommardahl/udacity-ci-1.git"
+    "url": "git+https://github.com/papicool/ci_pipeline.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bsommardahl/udacity-ci-1/issues"
+    "url": "https://github.com/papicool/ci_pipeline/issues"
   },
-  "homepage": "https://github.com/bsommardahl/udacity-ci-1#readme",
+  "homepage": "https://github.com/papicool/ci_pipeline#readme",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.1",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
