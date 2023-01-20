@@ -33,7 +33,7 @@ jobs:
       - run: npm audit
       - run: 
           name: on error
-          command: npm audit fix
+          command: npm audit fix --force
           when: on_fail
 workflows:
   my_workflow:
